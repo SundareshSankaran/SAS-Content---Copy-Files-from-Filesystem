@@ -99,7 +99,7 @@ Also, thanks to the following (SAS) colleagues whose earlier work helped in the 
 - Bruno Mueller 
 - Gerry Nelson 
 - David Weik 
-- Bo Bistrup 
+- Bo Bidstrup 
 
 
 ## Change Log
